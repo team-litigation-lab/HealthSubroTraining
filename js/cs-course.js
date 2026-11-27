@@ -66,6 +66,8 @@ window.LN_COURSE = {
       ],
       modules: [
         { id: "d1-deck", kind: "slides", deck: "hs-day1", title: "Health Insurance Subrogation Training \u00b7 Day 1", slides: 47 },
+        { id: "d1-check", kind: "practice", sim: "hs1-check", title: "Knowledge Check", label: "Knowledge Check", note: "Questions on today's lesson, scored out of 100, with feedback on every answer." },
+        { id: "d1-sim", kind: "practice", sim: "hs1-sim", title: "Practical Simulation", label: "Simulation", note: "Work today's lesson on a case, step by step, scored out of 100." },
         { id: "d1-handouts", kind: "files", title: "Handouts", label: "Handouts",
           note: "The full deck, to keep and read after the session.",
           items: [
@@ -95,6 +97,8 @@ window.LN_COURSE = {
       ],
       modules: [
         { id: "d2-deck", kind: "slides", deck: "hs-day2", title: "Health Insurance Subrogation Training \u00b7 Day 2", slides: 53 },
+        { id: "d2-check", kind: "practice", sim: "hs2-check", title: "Knowledge Check", label: "Knowledge Check", note: "Questions on today's lesson, scored out of 100, with feedback on every answer." },
+        { id: "d2-sim", kind: "practice", sim: "hs2-sim", title: "Practical Simulation", label: "Simulation", note: "Work today's lesson on a case, step by step, scored out of 100." },
         { id: "d2-handouts", kind: "files", title: "Handouts", label: "Handouts",
           note: "The full deck, to keep and read after the session.",
           items: [
@@ -149,6 +153,8 @@ window.LN_COURSE = {
           ] },
         { id: "d3-practice", kind: "practice", sim: "plans", title: "Simulation: Health Subrogation", label: "Simulation",
           note: "Work Global Health Blue-Shield's Notice of Lien to the final payoff, put the HI Subro workflow in order, then sort six plans' documents by the rules that govern them." },
+        { id: "d3-check", kind: "practice", sim: "hs3-check", title: "Knowledge Check", label: "Knowledge Check", note: "Questions on today's lesson, scored out of 100, with feedback on every answer." },
+        { id: "d3-sim", kind: "practice", sim: "hs3-sim", title: "Practical Simulation", label: "Simulation", note: "Work today's lesson on a case, step by step, scored out of 100." },
         { id: "d3-handouts", kind: "files", title: "Handouts", label: "Handouts",
           note: "The full deck, to keep and read after the session.",
           items: [
@@ -180,6 +186,8 @@ window.LN_COURSE = {
       ],
       modules: [
         { id: "d4-deck", kind: "slides", deck: "hs-day4", title: "Health Insurance Subrogation Training \u00b7 Day 4", slides: 59 },
+        { id: "d4-check", kind: "practice", sim: "hs4-check", title: "Knowledge Check", label: "Knowledge Check", note: "Questions on today's lesson, scored out of 100, with feedback on every answer." },
+        { id: "d4-sim", kind: "practice", sim: "hs4-sim", title: "Practical Simulation", label: "Simulation", note: "Work today's lesson on a case, step by step, scored out of 100." },
         { id: "d4-handouts", kind: "files", title: "Handouts", label: "Handouts",
           note: "The full deck, to keep and read after the session.",
           items: [
@@ -226,6 +234,8 @@ window.LN_COURSE = {
           ] },
         { id: "d5-video", kind: "video", title: "Health Subrogation: ERISA & Government Plan Liens",
           link: "https://drive.google.com/file/d/1sUjQCpEqkrvf802Ck23aajx4Z2ox8zgE/view" },
+        { id: "d5-check", kind: "practice", sim: "hs5-check", title: "Knowledge Check", label: "Knowledge Check", note: "Questions on today's lesson, scored out of 100, with feedback on every answer." },
+        { id: "d5-sim", kind: "practice", sim: "hs5-sim", title: "Practical Simulation", label: "Simulation", note: "Work today's lesson on a case, step by step, scored out of 100." },
         { id: "d5-handouts", kind: "files", title: "Handouts", label: "Handouts",
           note: "The full deck, to keep and read after the session.",
           items: [
