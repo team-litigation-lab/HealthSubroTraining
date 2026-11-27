@@ -1,0 +1,330 @@
+{
+ "title": "Health Insurance Subrogation Training · Day 5",
+ "sections": [
+  [
+   1,
+   2,
+   "Day 5"
+  ],
+  [
+   3,
+   21,
+   "Health Insurances"
+  ],
+  [
+   22,
+   33,
+   "Reduction"
+  ],
+  [
+   34,
+   39,
+   "UM / UIM"
+  ],
+  [
+   40,
+   48,
+   "PIP and HI"
+  ],
+  [
+   49,
+   56,
+   "Summary"
+  ],
+  [
+   57,
+   57,
+   "Wrap-up"
+  ]
+ ],
+ "sources": [
+  {
+   "src": "hs-day5",
+   "n": 2
+  },
+  {
+   "src": "hs-day5",
+   "n": 3
+  },
+  {
+   "src": "hs-day5",
+   "n": 4
+  },
+  {
+   "src": "hs-day5",
+   "n": 5
+  },
+  {
+   "src": "hs-day5",
+   "n": 6
+  },
+  {
+   "src": "hs-day5",
+   "n": 7
+  },
+  {
+   "src": "hs-day5",
+   "n": 8
+  },
+  {
+   "src": "hs-day5",
+   "n": 9
+  },
+  {
+   "src": "hs-day5",
+   "n": 10
+  },
+  {
+   "src": "hs-day5",
+   "n": 11
+  },
+  {
+   "src": "hs-day5",
+   "n": 12
+  },
+  {
+   "src": "hs-day5",
+   "n": 13
+  },
+  {
+   "src": "hs-day5",
+   "n": 14
+  },
+  {
+   "src": "hs-day5",
+   "n": 15
+  },
+  {
+   "src": "hs-day5",
+   "n": 16
+  },
+  {
+   "src": "hs-day5",
+   "n": 17
+  },
+  {
+   "src": "hs-day5",
+   "n": 18
+  },
+  {
+   "src": "hs-day5",
+   "n": 19
+  },
+  {
+   "src": "hs-day5",
+   "n": 20
+  },
+  {
+   "src": "hs-day5",
+   "n": 21
+  },
+  {
+   "src": "hs-day5",
+   "n": 22
+  },
+  {
+   "src": "hs-day5",
+   "n": 23
+  },
+  {
+   "src": "hs-day5",
+   "n": 24
+  },
+  {
+   "src": "hs-day5",
+   "n": 25
+  },
+  {
+   "src": "hs-day5",
+   "n": 26
+  },
+  {
+   "src": "hs-day5",
+   "n": 27
+  },
+  {
+   "src": "hs-day5",
+   "n": 28
+  },
+  {
+   "src": "hs-day5",
+   "n": 29
+  },
+  {
+   "src": "hs-day5",
+   "n": 30
+  },
+  {
+   "src": "hs-day5",
+   "n": 31
+  },
+  {
+   "src": "hs-day5",
+   "n": 32
+  },
+  {
+   "src": "hs-day5",
+   "n": 33
+  },
+  {
+   "src": "hs-day5",
+   "n": 34
+  },
+  {
+   "src": "hs-day5",
+   "n": 35
+  },
+  {
+   "src": "hs-day5",
+   "n": 36
+  },
+  {
+   "src": "hs-day5",
+   "n": 37
+  },
+  {
+   "src": "hs-day5",
+   "n": 38
+  },
+  {
+   "src": "hs-day5",
+   "n": 39
+  },
+  {
+   "src": "hs-day5",
+   "n": 40
+  },
+  {
+   "src": "hs-day5",
+   "n": 41
+  },
+  {
+   "src": "hs-day5",
+   "n": 42
+  },
+  {
+   "src": "hs-day5",
+   "n": 43
+  },
+  {
+   "src": "hs-day5",
+   "n": 44
+  },
+  {
+   "src": "hs-day5",
+   "n": 45
+  },
+  {
+   "src": "hs-day5",
+   "n": 46
+  },
+  {
+   "src": "hs-day5",
+   "n": 47
+  },
+  {
+   "src": "hs-day5",
+   "n": 48
+  },
+  {
+   "src": "hs-day5",
+   "n": 49
+  },
+  {
+   "src": "hs-day5",
+   "n": 50
+  },
+  {
+   "src": "hs-day5",
+   "n": 51
+  },
+  {
+   "src": "hs-day5",
+   "n": 52
+  },
+  {
+   "src": "hs-day5",
+   "n": 53
+  },
+  {
+   "src": "hs-day5",
+   "n": 54
+  },
+  {
+   "src": "hs-day5",
+   "n": 55
+  },
+  {
+   "src": "hs-day5",
+   "n": 56
+  },
+  {
+   "src": "hs-day5",
+   "n": 57
+  },
+  {
+   "src": "hs-day5",
+   "n": 58
+  }
+ ],
+ "titles": [
+  "Health Insurance Subrogation",
+  "Table of Contents",
+  "Tricare",
+  "Tricare",
+  "Tricare",
+  "Tricare Subrogation",
+  "Tricare",
+  "Erisa",
+  "Erisa",
+  "Erisa",
+  "Erisa",
+  "Erisa",
+  "Erisa",
+  "Erisa",
+  "Personal Insurance",
+  "United Health Care",
+  "Cigna",
+  "Anthem Blue Cross Blue Shield",
+  "Humana",
+  "Kaiser Permanente",
+  "Aetna",
+  "Requesting for Reduction",
+  "Requesting for Reduction",
+  "Requesting for Reduction",
+  "Requesting for Reduction",
+  "Requesting for Reduction",
+  "Requesting for Reduction",
+  "Steps to Request a Reduction",
+  "Steps to Request a Reduction",
+  "Steps to Request a Reduction",
+  "Steps to Request a Reduction",
+  "Steps to Request a Reduction",
+  "Requesting for Reduction",
+  "Who is not entitled to UM/UIM subrogation?",
+  "Who is not entitled to UM/UIM subrogation?",
+  "UM / UIM",
+  "UM / UIM",
+  "UM / UIM",
+  "UM / UIM",
+  "PIP Insurance vs Health Insurances",
+  "Coordination of Benefits",
+  "Subrogation",
+  "The Health Insurance Lien",
+  "When PIP Reimburses Health Insurance",
+  "Reimbursement Process",
+  "Reimbursement from the At-Fault Party",
+  "Subrogation Involving PIP",
+  "PIP Subrogation Lien",
+  "Summary",
+  "Summary",
+  "Summary",
+  "Summary",
+  "Summary",
+  "Summary",
+  "Summary",
+  "Summary",
+  "Thank You!"
+ ],
+ "handouts": {}
+}

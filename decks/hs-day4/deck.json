@@ -1,0 +1,340 @@
+{
+ "title": "Health Insurance Subrogation Training · Day 4",
+ "sections": [
+  [
+   1,
+   2,
+   "Day 4"
+  ],
+  [
+   3,
+   9,
+   "Collateral Source Rule"
+  ],
+  [
+   10,
+   41,
+   "Medicare"
+  ],
+  [
+   42,
+   43,
+   "Hospitals"
+  ],
+  [
+   44,
+   52,
+   "Medicaid"
+  ],
+  [
+   53,
+   58,
+   "Medicaid vs Medicare"
+  ],
+  [
+   59,
+   59,
+   "Wrap-up"
+  ]
+ ],
+ "sources": [
+  {
+   "src": "hs-day4",
+   "n": 2
+  },
+  {
+   "src": "hs-day4",
+   "n": 3
+  },
+  {
+   "src": "hs-day4",
+   "n": 4
+  },
+  {
+   "src": "hs-day4",
+   "n": 5
+  },
+  {
+   "src": "hs-day4",
+   "n": 6
+  },
+  {
+   "src": "hs-day4",
+   "n": 7
+  },
+  {
+   "src": "hs-day4",
+   "n": 8
+  },
+  {
+   "src": "hs-day4",
+   "n": 9
+  },
+  {
+   "src": "hs-day4",
+   "n": 10
+  },
+  {
+   "src": "hs-day4",
+   "n": 11
+  },
+  {
+   "src": "hs-day4",
+   "n": 12
+  },
+  {
+   "src": "hs-day4",
+   "n": 13
+  },
+  {
+   "src": "hs-day4",
+   "n": 14
+  },
+  {
+   "src": "hs-day4",
+   "n": 15
+  },
+  {
+   "src": "hs-day4",
+   "n": 16
+  },
+  {
+   "src": "hs-day4",
+   "n": 17
+  },
+  {
+   "src": "hs-day4",
+   "n": 18
+  },
+  {
+   "src": "hs-day4",
+   "n": 19
+  },
+  {
+   "src": "hs-day4",
+   "n": 20
+  },
+  {
+   "src": "hs-day4",
+   "n": 21
+  },
+  {
+   "src": "hs-day4",
+   "n": 22
+  },
+  {
+   "src": "hs-day4",
+   "n": 23
+  },
+  {
+   "src": "hs-day4",
+   "n": 24
+  },
+  {
+   "src": "hs-day4",
+   "n": 25
+  },
+  {
+   "src": "hs-day4",
+   "n": 26
+  },
+  {
+   "src": "hs-day4",
+   "n": 27
+  },
+  {
+   "src": "hs-day4",
+   "n": 28
+  },
+  {
+   "src": "hs-day4",
+   "n": 29
+  },
+  {
+   "src": "hs-day4",
+   "n": 30
+  },
+  {
+   "src": "hs-day4",
+   "n": 31
+  },
+  {
+   "src": "hs-day4",
+   "n": 32
+  },
+  {
+   "src": "hs-day4",
+   "n": 33
+  },
+  {
+   "src": "hs-day4",
+   "n": 34
+  },
+  {
+   "src": "hs-day4",
+   "n": 35
+  },
+  {
+   "src": "hs-day4",
+   "n": 36
+  },
+  {
+   "src": "hs-day4",
+   "n": 37
+  },
+  {
+   "src": "hs-day4",
+   "n": 38
+  },
+  {
+   "src": "hs-day4",
+   "n": 39
+  },
+  {
+   "src": "hs-day4",
+   "n": 40
+  },
+  {
+   "src": "hs-day4",
+   "n": 41
+  },
+  {
+   "src": "hs-day4",
+   "n": 42
+  },
+  {
+   "src": "hs-day4",
+   "n": 43
+  },
+  {
+   "src": "hs-day4",
+   "n": 44
+  },
+  {
+   "src": "hs-day4",
+   "n": 45
+  },
+  {
+   "src": "hs-day4",
+   "n": 46
+  },
+  {
+   "src": "hs-day4",
+   "n": 47
+  },
+  {
+   "src": "hs-day4",
+   "n": 48
+  },
+  {
+   "src": "hs-day4",
+   "n": 49
+  },
+  {
+   "src": "hs-day4",
+   "n": 50
+  },
+  {
+   "src": "hs-day4",
+   "n": 51
+  },
+  {
+   "src": "hs-day4",
+   "n": 52
+  },
+  {
+   "src": "hs-day4",
+   "n": 53
+  },
+  {
+   "src": "hs-day4",
+   "n": 54
+  },
+  {
+   "src": "hs-day4",
+   "n": 55
+  },
+  {
+   "src": "hs-day4",
+   "n": 56
+  },
+  {
+   "src": "hs-day4",
+   "n": 57
+  },
+  {
+   "src": "hs-day4",
+   "n": 58
+  },
+  {
+   "src": "hs-day4",
+   "n": 59
+  },
+  {
+   "src": "hs-day4",
+   "n": 60
+  }
+ ],
+ "titles": [
+  "Health Insurance Subrogation Training",
+  "Table of Contents",
+  "Collateral Source Rule",
+  "Collateral Source Rule",
+  "Collateral Source Rule",
+  "Collateral Source Rule",
+  "Collateral Source Rule",
+  "Collateral Source Rule",
+  "Collateral Source Rule",
+  "Medicare",
+  "Opening Medicare Subrogation",
+  "Exemption",
+  "Medicare and Conditional Payment Letter",
+  "Medicare and Conditional Payment Letter",
+  "Medicare and Conditional Payment Letter",
+  "Medicare and Conditional Payment Letter",
+  "Medicare and Conditional Payment Letter",
+  "Why Medicaire Lien Letters are Crucial",
+  "Why Medicaire Lien Letters are Crucial",
+  "Why Medicaire Lien Letters are Crucial",
+  "Navigating the Medicare Portal: Step 1",
+  "Navigating the Medicare Portal: Step 2",
+  "Navigating the Medicare Portal: Step 3",
+  "Navigating the Medicare Portal: Step 4",
+  "Navigating the Medicare Portal: Step 5",
+  "Navigating the Medicare Portal: Step 6",
+  "Navigating the Medicare Portal: Step 7",
+  "Navigating the Medicare Portal: Step 8",
+  "Conditional Payment",
+  "Demand Amount",
+  "Fixed % Option for Medicare Members",
+  "Final Settlement Detail Document",
+  "Final Settlement Detail Document",
+  "Medicare Timely Filing Period",
+  "Medicare Timely Filing Period: A Safeguard",
+  "Choice Between Billing 3rd Party or Medicare",
+  "12-Month Timeframe",
+  "Consequences for Failing to Bill Medicare",
+  "CMS’ Liability Insurance Billing Policy",
+  "Requirement to Drop Claims",
+  "Exception",
+  "Hospitals",
+  "Hospitals",
+  "Medicaid",
+  "Medicaid",
+  "Medicaid Subrogation",
+  "Medicaid: The Law",
+  "Medicaid Rules by State",
+  "Example Process in Some States",
+  "TIPS on settling a Medicaid Lien",
+  "TIPS on settling a Medicaid Lien",
+  "TIPS on settling a Medicaid Lien",
+  "Medicaid vs Medicare",
+  "Medicaid vs Medicare",
+  "Dual-Eligible Beneficiaries",
+  "Dual-Eligible Beneficiaries",
+  "Dual-Eligible Beneficiaries",
+  "Dual-Eligible Beneficiaries",
+  "Thank You!"
+ ],
+ "handouts": {}
+}
